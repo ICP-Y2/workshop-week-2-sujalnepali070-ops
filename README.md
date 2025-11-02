@@ -87,7 +87,8 @@ Figure 6: Simple simulation Circuit
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of simulating a simple electric circuit by connecting components directly..
-
+We observed that when we connect the whole circuit and keep resistance 1k ohm the light glows brighter than keeping the resistance 2k ohm and when the resistance is 3k ohm light doesn"t glow due to high resistance and lastly when there is no resistance the light glows the broghtest but gets damaged due to current overflow'
+Hence, we observed that when resistance is high current flow is less and vice versa.
 
 ```
 
